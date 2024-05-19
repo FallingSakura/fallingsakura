@@ -2,13 +2,13 @@
 
 ## ⭐社交媒体
 
-- [洛谷🗒️](https://www.luogu.com.cn/user/773503#main)
+- [洛谷🗒](https://www.luogu.com.cn/user/773503#main)
 
-- [Codeforces🕙](https://codeforces.com/profile/Falling_Sakura)
+- [Codeforces](https://codeforces.com/profile/Falling_Sakura)
 
-- [Bilibili📍](https://space.bilibili.com/1722315602)
+- [Bilibili](https://space.bilibili.com/1722315602)
 
-- [知乎✒️](https://www.zhihu.com/people/fsimh)
+- [知乎](https://www.zhihu.com/people/fsimh)
 
 - [Facebook](https://www.facebook.com/profile.php?id=100070990843778)
 
