@@ -2,7 +2,7 @@
 
 ## ⭐社交媒体
 
-- [洛谷🗒](https://www.luogu.com.cn/user/773503#main)
+- [洛谷](https://www.luogu.com.cn/user/773503#main)
 
 - [Codeforces](https://codeforces.com/profile/Falling_Sakura)
 
