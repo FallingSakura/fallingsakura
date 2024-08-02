@@ -1,12 +1,28 @@
 # 🎈Hi there ！
 
-## ⭐社交媒体
+## ⭐Social
 
 - [Bilibili](https://space.bilibili.com/1722315602)
+- [Zhihu](https://www.zhihu.com/people/fsimh)
+- [Facebook(*uncommonly used*)](https://www.facebook.com/profile.php?id=100070990843778)
+- [X](https://x.com/SakuraFalling1)
+- [Telegram(*uncommonly used*)](http://t.me/fallingsakura)
+- [Youtube](https://www.youtube.com/channel/UCsO6H9X30_5fKCg5jWqBlZA)
+- Discord: falling_sakura
 
-- [知乎](https://www.zhihu.com/people/fsimh)
+Look forward to communicating with you!
 
-- [Facebook](https://www.facebook.com/profile.php?id=100070990843778)
+## My projects
+
+- [Home Page](https://menu.fallingsakura.top)
+- [Hexo Redifine Blog](https://vercel.fallingsakura.top)
+- [OI Blog](https://white.fallingsakura.top)
+- [Re0 Blog(*deving*)](https://blog.fallingsakura.top)
+- [Portfolio(*deving*)](https://fallingsakura.top)
+
+*Oh they are so bad that I'm not satisfied.*
+
+---
 
 ![Metrics](https://metrics.lecoq.io/FallingSakura?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
