@@ -14,6 +14,7 @@ Look forward to communicating with you!
 
 ## My projects
 
+- [Record Calendar](https://github.com/FallingSakura/record-calendar)
 - [Home Page](https://menu.fallingsakura.top)
 - [Hexo Redifine Blog](https://vercel.fallingsakura.top)
 - [OI Blog](https://white.fallingsakura.top)
