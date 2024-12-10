@@ -16,6 +16,7 @@ Look forward to communicating with you!
 
 - [Record Calendar](https://github.com/FallingSakura/record-calendar)
 - [Home Page](https://menu.fallingsakura.top)
+- [Tech News](https://technews.fallingsakura.top)
 - [Hexo Redifine Blog](https://vercel.fallingsakura.top)
 - [OI Blog](https://white.fallingsakura.top)
 - [Re0 Blog(*deving*)](https://blog.fallingsakura.top)
