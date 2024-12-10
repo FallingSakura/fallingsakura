@@ -22,7 +22,7 @@ Look forward to communicating with you!
 - [Re0 Blog(*deving*)](https://blog.fallingsakura.top)
 - [Portfolio(*deving*)](https://fallingsakura.top)
 
-*Oh they are so bad that I'm not satisfied.*
+*Oh they are so bad.*
 
 ---
 
