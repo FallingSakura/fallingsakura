@@ -4,6 +4,8 @@ Falling_Sakura(nickname), 18 yo senior high school student, living in Yantai Sha
 
 Fullstack-developer & UI/UX and motion designer.
 
+I'm devoted to continuously improving myself to become a top-notch developer and designer.
+
 ## Social
 
 - [Bilibili](https://space.bilibili.com/1722315602)
