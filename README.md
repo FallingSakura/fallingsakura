@@ -1,6 +1,9 @@
-# 🎈Hi there ！
+## Whoiam
 
-## ⭐Social
+Falling_Sakura(nickname), 18 yo senior high school student, living in Yantai Shandong. 
+Fullstack-developer & UI/UX and motion designer.
+
+## Social
 
 - [Bilibili](https://space.bilibili.com/1722315602)
 - [Zhihu](https://www.zhihu.com/people/fsimh)
@@ -14,17 +17,17 @@ Look forward to communicating with you!
 
 ## My projects
 
-- [Record Calendar](https://github.com/FallingSakura/record-calendar)
+- [Record Calendar](https://calendar.fallingsakura.top)
 - [Home Page](https://menu.fallingsakura.top)
 - [Tech News](https://technews.fallingsakura.top)
 - [Hexo Redifine Blog](https://vercel.fallingsakura.top)
-- [OI Blog](https://white.fallingsakura.top)
+- [OI Blog](https://whitepapermr.github.io)
 - [Re0 Blog(*deving*)](https://blog.fallingsakura.top)
 - [Portfolio(*deving*)](https://fallingsakura.top)
 
-*Oh they are so bad.*
+*bad.*
 
----
+## Else
 
 ![Metrics](https://metrics.lecoq.io/FallingSakura?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
