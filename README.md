@@ -1,6 +1,6 @@
 ## Whoiam
 
-Falling_Sakura(nickname), living in Yantai Shandong. 
+Falling_Sakura(nickname), living in Hangzhou, freshman at ZJGSU.
 
 Fullstack-developer & UI/UX and motion designer.
 
