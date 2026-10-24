@@ -1,7 +1,5 @@
 ## Whoiam
 
-Falling_Sakura(nickname), living in Hangzhou, freshman at ZJGSU.
-
 Fullstack-developer & UI/UX and motion designer.
 
 I'm devoted to continuously improving myself to become a top-notch developer and designer.
